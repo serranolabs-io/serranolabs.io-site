@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'serranolabs.io',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Made with love <3',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
