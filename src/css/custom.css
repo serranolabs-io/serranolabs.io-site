@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -14,11 +19,12 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: "manrope";
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -27,4 +33,170 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+@layer base {
+  :root {
+    --background: 0 8% 95%;
+    --foreground: 0 8% 5%;
+
+    --card: 0 10% 94%;
+    --card-foreground: 0 8% 5%;
+
+    --popover: 0 10% 94%;
+    --popover-foreground: 0 8% 5%;
+
+    --primary: 0 100% 63%;
+    --primary-foreground: 0 9% 98%;
+
+    --secondary: 0 100% 100%;
+    --secondary-foreground: 0 8% 5%;
+
+    --muted: 0 8% 91%;
+    --muted-foreground: 0 9% 45%;
+
+    --accent: 0 8% 91%;
+    --accent-foreground: 0 8% 5%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 9% 87%;
+    --input: 0 9% 80%;
+    --ring: 0 36% 72%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 3%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 3%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 100% 63%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 0 100% 100%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 9%;
+    --muted-foreground: 0 0% 49%;
+
+    --accent: 0 0% 6%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 11%;
+    --input: 0 0% 16%;
+    --ring: 0 100% 40%;
+  }
+}
+@layer base {
+  * {
+    @apply border-border dark;
+  }
+  body {
+    @apply bg-background text-foreground dark;
+  }
+}
+
+.h1 {
+  @apply scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl;
+}
+
+.manrope-md {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+}
+.manrope-sm {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+*,
+a {
+  font-family: "Manrope" !important;
+}
+
+.h1 {
+  text-shadow: 0 0 8px white;
+  font-size: 7.2rem;
+}
+
+.h2 {
+  @apply scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight first:mt-0;
+}
+
+.h3 {
+  @apply scroll-m-20 text-2xl font-semibold tracking-tight;
+}
+
+.h4 {
+  @apply scroll-m-20 text-xl font-semibold tracking-tight;
+}
+
+.p {
+  @apply leading-7 [&:not(:first-child)]:mt-6;
+}
+
+.blockquote {
+  @apply mt-6 border-l-2 pl-6 italic;
+}
+
+.list {
+  @apply my-6 ml-6 list-disc [&>li]:mt-2;
+}
+
+.inline-code {
+  @apply relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold;
+}
+
+.lead {
+  @apply text-xl text-muted-foreground;
+}
+
+.large {
+  @apply text-lg font-semibold;
+}
+
+.small {
+  @apply text-sm font-medium;
+}
+
+.muted {
+  @apply text-sm text-muted-foreground;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.textarea-height {
+  height: 100% !important;
+  display: block;
+}
+
+html,
+body,
+#root,
+#fullheight {
+  min-height: 100% !important;
+  height: 100%;
 }
