@@ -13,7 +13,7 @@ export default function FooterLinkItem({ item }: Props): JSX.Element {
 
   return (
     <Link
-      className="footer__link-item"
+      className="footer__link-item small"
       {...(href
         ? {
             href: prependBaseUrlToHref ? normalizedHref : href,

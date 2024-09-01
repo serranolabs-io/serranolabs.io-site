@@ -25,7 +25,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #ff4242;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -107,7 +107,12 @@
 }
 
 .h1 {
-  @apply scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl;
+  @apply scroll-m-20  font-extrabold tracking-tight;
+  text-shadow: 0 0 4px white;
+}
+.h1-small {
+  @apply scroll-m-20  font-extrabold tracking-tight;
+  text-shadow: 0 0 4px white;
 }
 
 .manrope-md {
@@ -115,6 +120,26 @@
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+body {
+  background-color: black;
+  /* background-image: radial-gradient(black 10%, rgba(255, 66, 66, 0.9) 100%); */
+  background-image: radial-gradient(
+    circle at 50% 50%,
+    rgba(255, 66, 66, 0.3) 1%,
+    rgba(15, 16, 18, 0.7) 60%
+  );
+  /* mask-image: radial-gradient(circle, #000 50%, #000 40%); */
+}
+.background-glow {
+  /* -webkit-box-shadow: 0px 0px 105px 45px rgba(255, 66, 66, 0.9); */
+  /* -moz-box-shadow: 0px 0px 105px 45px rgba(255, 66, 66, 0.9); */
+  /* box-shadow: 0px 0px 105px 45px rgba(255, 66, 66, 0.9); */
+  /* filter: brightness(2%); */
+  /* background-color: black; */
+  /* mix-blend-mode: multiply; */
+  /* mix-blend-mode: darken; */
 }
 
 @font-face {
@@ -133,35 +158,38 @@ a {
   font-family: "Manrope" !important;
 }
 
-.h1 {
-  text-shadow: 0 0 8px white;
-  font-size: 7.2rem;
-}
-
+h1,
 .h2 {
-  @apply scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight first:mt-0;
+  @apply scroll-m-20  pb-2 text-3xl font-semibold tracking-tight first:mt-0;
 }
 
+h2,
 .h3 {
   @apply scroll-m-20 text-2xl font-semibold tracking-tight;
 }
 
+h3,
 .h4 {
   @apply scroll-m-20 text-xl font-semibold tracking-tight;
 }
 
+p,
 .p {
   @apply leading-7 [&:not(:first-child)]:mt-6;
 }
 
+blockquote,
 .blockquote {
   @apply mt-6 border-l-2 pl-6 italic;
 }
 
+ul,
+ol,
 .list {
   @apply my-6 ml-6 list-disc [&>li]:mt-2;
 }
 
+inline-code,
 .inline-code {
   @apply relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold;
 }
@@ -170,6 +198,8 @@ a {
   @apply text-xl text-muted-foreground;
 }
 
+li,
+p,
 .large {
   @apply text-lg font-semibold;
 }
@@ -197,6 +227,6 @@ html,
 body,
 #root,
 #fullheight {
-  min-height: 100% !important;
-  height: 100%;
+  height: auto !important;
+  /* min-height: 100% !important; */
 }

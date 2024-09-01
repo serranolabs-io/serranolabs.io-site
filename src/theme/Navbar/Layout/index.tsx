@@ -38,7 +38,8 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
       className={clsx(
         "navbar",
         "navbar--fixed-top",
-        "bg-muted-background",
+        "bg-background/20",
+        "sticky top-0 z-40 w-full backdrop-blur transition-colors duration-500 ",
         styles.navbar,
         hideOnScroll && [
           styles.navbarHideable,

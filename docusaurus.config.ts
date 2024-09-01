@@ -43,11 +43,12 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          
+          
+          routeBasePath: "/about",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: "https://github.com",
         },
         blog: {
           showReadingTime: true,
@@ -82,7 +83,9 @@ const config: Config = {
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
-      ],
+        {to: '/about/intro', label: 'About', position: 'left'},
+        {to: '#gallery', label: 'Gallery', position: 'right'},
+      ]
     },
     footer: {
       style: 'dark',
@@ -105,7 +108,7 @@ const config: Config = {
             // },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/GFyGTcmjVD',
             },
             // {
             //   label: 'Twitter',
@@ -119,6 +122,10 @@ const config: Config = {
             {
               label: 'Blog',
               to: '/blog',
+            },
+            {
+              label: 'About',
+              to: '/about',
             },
             {
               label: 'GitHub',

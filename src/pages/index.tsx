@@ -4,20 +4,21 @@ import Heading from "@theme/Heading";
 import Head from "@docusaurus/Head";
 // @ts-ignore
 import Logo from "/img/logo.png";
+import Gallery from "../components/Gallery";
 
 function Hero() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <div className="mt-20">
-      <h1 className="text-center h1 mb-4 text-background italic">
+      <h1 className="text-center h1 text-7xl  lg:text-9xl mb-[6rem] text-black italic">
         Serrano Labs
       </h1>
-      <p className="text-center large text-muted-foreground Manrope mb-12">
+      <div className="flex justify-center mb-4">
+        <img src={Logo} width={200} height={200} />
+      </div>
+      <p className="text-center large text-muted-foreground Manrope">
         {siteConfig.tagline}
       </p>
-      <div className="flex justify-center">
-        <img src={Logo} />
-      </div>
     </div>
   );
 }
@@ -30,7 +31,8 @@ export default function Home(): JSX.Element {
       description="Serrano Labs, everything here is made with love."
     >
       <Hero />
-      <main className="bg-primary"></main>
+      <main className=""></main>
+      <Gallery />
     </Layout>
   );
 }
