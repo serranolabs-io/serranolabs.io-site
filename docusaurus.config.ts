@@ -74,6 +74,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     // Replace with your project's social card
     image: 'img/logo.png',
     navbar: {
@@ -138,6 +141,7 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} Serrano Labs LLC`,
     },
     prism: {
+    
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
