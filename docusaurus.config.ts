@@ -56,6 +56,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
+          routeBasePath: "/blog",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -125,7 +126,7 @@ const config: Config = {
             },
             {
               label: 'About',
-              to: '/about',
+              to: '/about/intro',
             },
             {
               label: 'GitHub',
