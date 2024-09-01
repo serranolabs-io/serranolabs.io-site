@@ -35,22 +35,26 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
         message: "Main",
         description: "The ARIA label for the main navigation",
       })}
-      className={clsx(
-        "navbar",
-        "navbar--fixed-top",
-        "bg-background/20",
-        "sticky top-0 z-40 w-full backdrop-blur transition-colors duration-500 ",
-        styles.navbar,
-        hideOnScroll && [
-          styles.navbarHideable,
-          !isNavbarVisible && styles.navbarHidden,
-        ],
-        {
-          "navbar--dark": style === "dark",
-          "navbar--primary": style === "primary",
-          "navbar-sidebar--show": mobileSidebar.shown,
-        }
-      )}
+      className={
+        `
+      
+      ` +
+        clsx(
+          "navbar",
+          "navbar--fixed-top",
+          "bg-background/20",
+          styles.navbar,
+          hideOnScroll && [
+            styles.navbarHideable,
+            !isNavbarVisible && styles.navbarHidden,
+          ],
+          {
+            "navbar--dark": style === "dark",
+            "navbar--primary": style === "primary",
+            "navbar-sidebar--show": mobileSidebar.shown,
+          }
+        )
+      }
     >
       {children}
       <NavbarBackdrop onClick={mobileSidebar.toggle} />

@@ -122,6 +122,12 @@
   font-style: normal;
 }
 
+@media (min-width: 1000px) {
+  .navbar {
+    @apply md:sticky md:top-0 md:z-40 md:w-full backdrop-blur transition-colors duration-500;
+  }
+}
+
 body {
   background-color: black;
   /* background-image: radial-gradient(black 10%, rgba(255, 66, 66, 0.9) 100%); */
