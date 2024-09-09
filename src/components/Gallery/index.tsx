@@ -77,14 +77,14 @@ const Gallery: FC = () => {
         "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
       url: "https://stwory.fun",
     },
-    {
-      name: "Stwory",
-      imgJSX: Stwory,
-      isImage: true,
-      description:
-        "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
-      url: "https://stwory.fun",
-    },
+    // {
+    //   name: "Stwory",
+    //   imgJSX: Stwory,
+    //   isImage: true,
+    //   description:
+    //     "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
+    //   url: "https://stwory.fun",
+    // },
   ];
 
   const collections: Collection[] = [
