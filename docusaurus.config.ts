@@ -45,7 +45,7 @@ const config: Config = {
         docs: {
           
           
-          routeBasePath: "/about",
+          routeBasePath: "/articles",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com",
@@ -87,7 +87,7 @@ const config: Config = {
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/about/intro', label: 'About', position: 'left'},
+        {to: '/articles/intro', label: 'Articles', position: 'left'},
         {to: '#gallery', label: 'Gallery', position: 'right'},
       ]
     },
@@ -128,8 +128,8 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'About',
-              to: '/about/intro',
+              label: 'Articles',
+              to: '/Articles/intro',
             },
             {
               label: 'GitHub',

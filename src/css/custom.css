@@ -190,6 +190,7 @@ h4 {
 blockquote,
 .blockquote {
   @apply mt-6 border-l-2 pl-6 italic;
+  margin-bottom: 1.2rem !important;
 }
 
 ul,
@@ -210,12 +211,13 @@ inline-code,
 td {
   @apply text-sm font-semibold;
 }
+
+li,
 p {
   @apply text-sm font-semibold;
   line-height: 1.5;
 }
 
-li,
 .large {
   @apply text-lg font-semibold;
 }
