@@ -129,7 +129,7 @@ const config: Config = {
             },
             {
               label: 'Articles',
-              to: '/Articles/intro',
+              to: '/articles/intro',
             },
             {
               label: 'GitHub',

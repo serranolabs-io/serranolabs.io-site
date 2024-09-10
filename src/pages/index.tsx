@@ -5,7 +5,16 @@ import Head from "@docusaurus/Head";
 // @ts-ignore
 import Logo from "/img/logo.png";
 import Gallery from "../components/Gallery";
+// src/index.js
+import React from "react";
 
+import { PostHogProvider } from "posthog-js/react";
+
+const options = {
+  api_host: "https://us.i.posthog.com",
+};
+
+// "phc_Qy48W4iZYOFqje9LAYmOuFVjlXrTblA5YCfWmMwAaoe",
 function Hero() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -30,9 +39,14 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Serrano Labs, everything here is made with love."
     >
+      {/* <PostHogProvider
+        apiKey={"phc_Qy48W4iZYOFqje9LAYmOuFVjlXrTblA5YCfWmMwAaoe"}
+        options={options}
+      > */}
       <Hero />
       <main className=""></main>
       <Gallery />
+      {/* </PostHogProvider> */}
     </Layout>
   );
 }
