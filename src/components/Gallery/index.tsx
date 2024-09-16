@@ -1,7 +1,9 @@
 import { Card, CardContent, CardDescription, CardHeader } from "../../lib/Card";
 import { FC } from "react";
 //@ts-ignore
-import Stwory from "/img/stwory.png";
+import Stwory from "/img/stwory-logo.png";
+//@ts-ignore
+import Bookera from "/img/bookera.png";
 import { Github } from "lucide-react";
 
 interface AppProps {
@@ -21,7 +23,11 @@ const AppCompnent: FC<AppProps> = ({ app, size = "large" }) => {
     >
       <figure className="group relative">
         {app.isImage ? (
-          <img className={imgSize} src={app.imgJSX} alt={app.name} />
+          <img
+            className={"[border-radius:20%] " + imgSize}
+            src={app.imgJSX}
+            alt={app.name}
+          />
         ) : (
           <>{app.imgJSX}</>
         )}
@@ -41,24 +47,6 @@ interface Collection {
   name: string;
 }
 
-interface CollectionProps {
-  collection: Collection;
-}
-
-const CollectionComponent: FC<CollectionProps> = ({ collection }) => {
-  return (
-    <Card className="relative">
-      <CardContent className="grid grid-cols-2 p-2 pt-1">
-        {collection.apps.map((app) => {
-          return <AppCompnent key={app.name} app={app} size="small" />;
-        })}
-      </CardContent>
-      <CardDescription className="text-center absolute text-nowrap left-[50%] -translate-x-[50%] top-[103%] small">
-        {collection.name}
-      </CardDescription>
-    </Card>
-  );
-};
 interface App {
   imgJSX: JSX.Element;
   isImage: boolean;
@@ -77,35 +65,29 @@ const Gallery: FC = () => {
         "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
       url: "https://stwory.io",
     },
-    // {
-    //   name: "Stwory",
-    //   imgJSX: Stwory,
-    //   isImage: true,
-    //   description:
-    //     "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
-    //   url: "https://stwory.fun",
-    // },
+    {
+      name: "Bookera",
+      imgJSX: Bookera,
+      isImage: true,
+      description:
+        "Bookera is the next generational library. Read the blog or open the website to learn more.",
+      url: "https://bookera.pub",
+    },
   ];
 
-  const collections: Collection[] = [
+  const devTools: App[] = [
     {
-      apps: [
-        {
-          name: "Goat Stack",
-          imgJSX: <Github />,
-          isImage: false,
-          url: "https://github.com/serranoio/goat-stack",
-          description:
-            "This is a template for building very simple viral market apps.",
-        },
-      ],
-
-      name: "Viral App toolset",
+      name: "Goat Stack",
+      imgJSX: <Github width={84} height={84} />,
+      isImage: false,
+      url: "https://github.com/serranoio/goat-stack",
+      description:
+        "This is a template for building very simple viral market apps.",
     },
   ];
 
   return (
-    <section id="gallery" className="py-[24rem] bg-transparent">
+    <section id="gallery" className="py-[12rem] bg-transparent">
       <h1 className="h2 text-center text-secondary mb-2">Gallery</h1>
       <p className="text-center text-secondary-foreground small italic">
         Our most finest selection of handcrafted goods: apps, and dev tooling.
@@ -122,9 +104,9 @@ const Gallery: FC = () => {
         </Card>
         <Card>
           <CardHeader className="h3 text-center">Dev Tools</CardHeader>
-          <CardContent className="flex gap-2 px-8">
-            {collections.map((collection: Collection) => {
-              return <CollectionComponent collection={collection} />;
+          <CardContent className="flex gap-2 justify-center">
+            {devTools.map((app) => {
+              return <AppCompnent key={app.name} app={app} />;
             })}
           </CardContent>
         </Card>

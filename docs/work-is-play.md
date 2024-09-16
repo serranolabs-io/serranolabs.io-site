@@ -26,5 +26,3 @@ Endless curiousity, imagination.
 
 Although as an adult you've seen that tree, as an adult you might not look at that tree.
 Stay curious like a child. Everything you see has everything about it you've never imagined before.
-
-As adults we lose that inquisitiveness. We learn at a l

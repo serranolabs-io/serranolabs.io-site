@@ -16,13 +16,13 @@ A song is just a a pattern of vibrations that vibrate at certain frequencies. At
 Your brain is addicted to discovering patterns, so when you start to hear a beat, you groooooooove. You start bopping your head and enjoying the song! Next, you'll start to hear a rhythm,
 Once you start to hear a rhythm, you just can't help but to sing, get loose, forget about where you are, be 100% in the moment, and maybe you'll start dancing!
 
-Replace [code] with whatever activity you are doing:
+Replace [create] with whatever activity you are doing. For me, I usually replace it with 'coding'.
 
 When listening to music, the beat & rhythm are already made.
 
-But when I [code], I create the beat and the rhythm.
+But when I [create], I create the beat and the rhythm.
 
-Everyday I [code] becomes another beat in the rhythm.
+Everyday I [create] becomes another beat in the rhythm.
 
 Somedays, I am offbeat: I might've barely gotten anything done or been stuck during a problem.
 
@@ -30,6 +30,6 @@ But chain enough beats, and then you can start to create a rhythm.
 
 The rhythm starts becoming so enjoyable that it turns into an entire song!
 
-At this point, I cannot stop [coding]. I am solving problem left in right in the flow state.
+At this point, I cannot stop [creating]. I am solving problem left in right in the flow state.
 
 I accept that I will be offbeat sometimes, and I have faith that I will hear the song again.

@@ -148,6 +148,10 @@ body {
   /* mix-blend-mode: darken; */
 }
 
+img {
+  @apply rounded-xl;
+}
+
 @font-face {
   font-family: "Manrope";
   src: url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
@@ -162,6 +166,10 @@ body {
 *,
 a {
   font-family: "Manrope" !important;
+}
+
+a {
+  font-style: italic;
 }
 
 h1,

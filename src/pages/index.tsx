@@ -18,16 +18,18 @@ const options = {
 function Hero() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <div className="mt-20">
-      <h1 className="text-center h1 text-7xl  lg:text-9xl mb-[6rem] text-black italic">
-        Serrano Labs
-      </h1>
-      <div className="flex justify-center mb-4">
-        <img src={Logo} width={200} height={200} />
+    <div className="min-h-[100vh] flex justify-center items-center">
+      <div className="">
+        <div className="flex justify-center mb-4">
+          <img src={Logo} width={200} height={200} />
+        </div>
+        <h1 className="text-center h1 text-7xl lg:text-6xl mb-[1rem] text-black">
+          Serrano Labs
+        </h1>
+        <p className="text-center large text-muted-foreground Manrope">
+          {siteConfig.tagline}
+        </p>
       </div>
-      <p className="text-center large text-muted-foreground Manrope">
-        {siteConfig.tagline}
-      </p>
     </div>
   );
 }
@@ -39,14 +41,14 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Serrano Labs, everything here is made with love."
     >
-      {/* <PostHogProvider
+      <PostHogProvider
         apiKey={"phc_Qy48W4iZYOFqje9LAYmOuFVjlXrTblA5YCfWmMwAaoe"}
         options={options}
-      > */}
-      <Hero />
-      <main className=""></main>
-      <Gallery />
-      {/* </PostHogProvider> */}
+      >
+        <Hero />
+        <main className=""></main>
+        <Gallery />
+      </PostHogProvider>
     </Layout>
   );
 }
