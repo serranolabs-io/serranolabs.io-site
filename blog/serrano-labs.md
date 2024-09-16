@@ -4,7 +4,7 @@ title: Introducing Serrano Labs
 date: 09/06/2024
 ---
 
-![Serrano Labs](../static/img/logo.png)
+![Serrano Labs](/img/logo.png)
 
 Hey everyone, welcome to Serrano Labs LLC! The following is what we live by:
 

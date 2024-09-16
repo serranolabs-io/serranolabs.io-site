@@ -1,9 +1,8 @@
-import { Card, CardContent, CardDescription, CardHeader } from "../../lib/Card";
+import { Card, CardContent, CardHeader } from "../../lib/Card";
 import { FC } from "react";
-//@ts-ignore
-import Stwory from "/img/stwory-logo.png";
-//@ts-ignore
-import Bookera from "/img/bookera.png";
+// @ts-ignore
+// @ts-ignore
+//
 import { Github } from "lucide-react";
 
 interface AppProps {
@@ -24,7 +23,8 @@ const AppCompnent: FC<AppProps> = ({ app, size = "large" }) => {
       <figure className="group relative">
         {app.isImage ? (
           <img
-            className={"[border-radius:20%] " + imgSize}
+            className={`[border-radius:20%] ${imgSize}`}
+            // @ts-ignore
             src={app.imgJSX}
             alt={app.name}
           />
@@ -42,13 +42,8 @@ const AppCompnent: FC<AppProps> = ({ app, size = "large" }) => {
   );
 };
 
-interface Collection {
-  apps: App[];
-  name: string;
-}
-
 interface App {
-  imgJSX: JSX.Element;
+  imgJSX: string | JSX.Element;
   isImage: boolean;
   name: string;
   description: string;
@@ -59,7 +54,7 @@ const Gallery: FC = () => {
   const apps: App[] = [
     {
       name: "Stwory",
-      imgJSX: Stwory,
+      imgJSX: "/img/stwory-logo.png",
       isImage: true,
       description:
         "Stwory is a game where users create a story from two random daily words. The story with the most likes at the end of the day wins.",
@@ -67,7 +62,7 @@ const Gallery: FC = () => {
     },
     {
       name: "Bookera",
-      imgJSX: Bookera,
+      imgJSX: "/img/bookera.png",
       isImage: true,
       description:
         "Bookera is the next generational library. Read the blog or open the website to learn more.",

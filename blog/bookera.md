@@ -4,7 +4,7 @@ title: The Beginnings of Bookera
 date: 09/15/2024
 ---
 
-![bookera](../static/img/bookera.png)
+![bookera](/img/bookera.png)
 
 I want to create the next generational library.
 
