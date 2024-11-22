@@ -22,13 +22,13 @@ The problems in most companies is that the variables of budget and scope are fix
 
 ## The Missing Piece
 
-How do you prevent yourself from losing the ability to be agile in the first place? Agile does not speak of this. In other words, the Agile manifesto is only reactionary, it is not proactive.
+How do you prevent yourself from losing the ability to be agile in the first place? _Agile_ does not speak of this. In other words, _The Agile Manifesto_ is only reactionary, it is not proactive.
 
 ### Prevention
 
 #### Truth
 
-Requirements will always be in development. Therefore, features can never be fully complete before they are handed off. Requirements should reach a status of having all ambiguity resolved before being handed off. This is called getting requirements to the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
+The truth is that requirements will always be in development. Therefore, features can never be fully complete before they are handed off. But in order for the machine to move, requirements should reach a status of having all ambiguity resolved before being handed off. This is called getting requirements to the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
 
 #### Solution
 
@@ -48,3 +48,7 @@ There are many benefits to this:
 - Estimates can be more effectively made - understanding that there are possible technical limitations or some features are frankly incomplete / need more time to be thought through can allow other parts of the organization to plan around these limitations.
 - Saves A LOT of time - Since gaps in understanding will be bridged, this will clarify the constraints and limitations that PM, UX, and Eng have to work with. THis means that their effort will be spent more productively.
 - UX mocks contain a lot of ambiguity, leading to misinterpretations. Resolving this ambiguity will prevent any "UX Audits" from being needed to be done.
+
+I have listed only 3 main benefits, but these 3 benefits have a ripple effect throughout the organizations.
+
+In Summary, _Agile_ is sometimes impossible, as understood by the equation quality = budget _ scope _ time. In order to prevent these situations, we have to optimize for agility (Agile never mentions how you can do so). Optimizing for agility means that requirements are stamped with the Definition of "done" by resolving all ambiguity.
