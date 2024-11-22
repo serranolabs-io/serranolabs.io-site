@@ -28,11 +28,11 @@ How do you prevent yourself from losing the ability to be agile in the first pla
 
 #### Truth
 
-Requirements will always be in development. Therefore, features can never be fully complete before they are handed off. This is called getting requirements to the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
+Requirements will always be in development. Therefore, features can never be fully complete before they are handed off. Before a hand off is made, requirements should meet the criteria for the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
 
 #### Solution
 
-To get requirements to the Definition of _done_, the solution is to resolve all ambiguity by labeling requirements with a status.
+To get requirements to the Definition of "done", the solution is to resolve all ambiguity by labeling requirements with a status.
 
 - luminary
 - possible technical limitations
@@ -40,5 +40,4 @@ To get requirements to the Definition of _done_, the solution is to resolve all 
 - unforeseen
 - gaps in understanding
 - incomplete
-
-This will allow you to carve a statue.
+- complete
