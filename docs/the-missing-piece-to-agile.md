@@ -28,7 +28,7 @@ How do you prevent yourself from losing the ability to be agile in the first pla
 
 #### Truth
 
-Requirements will always be in development. Therefore, features can never be fully complete before they are handed off. Before a hand off is made, requirements should meet the criteria for the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
+Requirements will always be in development. Therefore, features can never be fully complete before they are handed off. Requirements should reach a status of having all ambiguity resolved before being handed off. This is called getting requirements to the Definition of "done". Acknowledging this truth will allow teams to optimize agility.
 
 #### Solution
 
@@ -41,3 +41,10 @@ To get requirements to the Definition of "done", the solution is to resolve all 
 - gaps in understanding
 - incomplete
 - complete
+- optional
+
+There are many benefits to this:
+
+- Estimates can be more effectively made - understanding that there are possible technical limitations or some features are frankly incomplete / need more time to be thought through can allow other parts of the organization to plan around these limitations.
+- Saves A LOT of time - Since gaps in understanding will be bridged, this will clarify the constraints and limitations that PM, UX, and Eng have to work with. THis means that their effort will be spent more productively.
+- UX mocks contain a lot of ambiguity, leading to misinterpretations. Resolving this ambiguity will prevent any "UX Audits" from being needed to be done.
