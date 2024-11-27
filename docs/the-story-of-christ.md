@@ -17,7 +17,7 @@ In short, this represnts the need for suffering in order to experience the death
 
 ## What is your ego?
 
-Your ego is a trap that warps your reality to be perceived negatively. It manifests as fear, doubt, anxiety, anger, grudges, sadness, hatred, dislike, uneasiness, jealousy, envy, discomfort, etc. It evolved as a survival mechanism in order to protect us.
+Your ego is a trap that warps your reality to be perceived negatively. It manifests as fear, doubt, anxiety, anger, grudges, sadness, hatred, dislike, uneasiness, jealousy, envy, discomfort, hubris, possessiveness, clinginess. It evolved as a survival mechanism in order to protect us.
 
 ## How to collapse your ego and ascend into heaven
 
