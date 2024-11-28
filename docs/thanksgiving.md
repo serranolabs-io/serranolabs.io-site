@@ -4,7 +4,9 @@ title: The Greatest Thing to be Thankful For
 date: 11/28/2024
 ---
 
-I am thankful for the force of creation that lives within us, because with it, we can derive joy that is infinite. This force of creation manifests as living in the present moment.
+Happy Thanksgiving Everyone!
+
+The greatest thing to be thankful for is the force of creation that lives within us, because with it, we can derive joy that is infinite. This force of creation manifests as living in the present moment.
 
 The joy of living in the present comes from the mystery of how can I make this moment enjoyable? What can I do _myself_ to create my joy?
 
