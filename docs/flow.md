@@ -154,7 +154,7 @@ When you meditate, the ego will start projecting competing intentions into your 
 - You could be watching Sonic the Hedgehog 3 right now
 - You could be eating a nice goat cheese chicken salad right now
 
-Your goal is to defeat these hindrances to meditation by cultivating intention! Defeating these hindrances to meditation is also alled 'applying antitodes'. Dealing with lethargy, laziness, dullness, anger, resentment, worry (and everything else) all require different antidotes. To learn about them in full detail, meditate!!!! Eventually, you will reach the flow state when focusing on your breath as you come into acceptance, enjoyment, and then enthusiasm. Focusing on your breath becomes an invigorating experience where you are fully 100% immersed into the act, achieving high levels of concetration that you have never achieved before. Your mind will undergo the following process :D!
+Your goal is to defeat these hindrances to meditation by cultivating intention! Defeating these hindrances to meditation is also called 'applying antitodes'. Dealing with lethargy, laziness, dullness, anger, resentment, worry (and everything else) all require different antidotes. To learn about them in full detail, meditate!!!! Eventually, you will reach the flow state when focusing on your breath as you come into acceptance, enjoyment, and then enthusiasm. Focusing on your breath becomes an invigorating experience where you are fully 100% immersed into the act, achieving high levels of concetration that you have never achieved before. Your mind will undergo the following process :D!
 
 ![The Stages](/img/stages.png)
 
