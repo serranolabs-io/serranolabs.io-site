@@ -99,7 +99,7 @@ When you meditate, you can practice this skill at a fundamental level by observi
 :::
 
 :::tip
-Maybe you really really regret something you did the other day. To fully accept what you cannot change what you did requires no thinking; only being. To do this, hold this unpleasant emotion in your center of attention and then put your awareness around it. Let the emotion drift into the awareness around it. You will start feeling that the emotion no longer holds you in the same way. Now that this emotion is in space, bring acceptance into your center of attention. Acceptance now becomes your new reality. To understand what I mean, you have to meditate. More on this later.
+Maybe you really really regret something you did the other day. To fully accept what you did requires no thinking; only being. To do this, hold this unpleasant emotion in your center of attention and then put your awareness around it. Let the emotion drift into the awareness around it. You will start feeling that the emotion no longer holds you in the same way. Now that this emotion is in space, bring acceptance into your center of attention. Acceptance now becomes your new reality. To understand what I mean, you have to meditate. More on this later.
 :::
 
 #### The Frequency of Enjoyment
