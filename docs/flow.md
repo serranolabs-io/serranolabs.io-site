@@ -95,7 +95,7 @@ Have you ever seen a cancer patient who has _accepted_ that they are sick? They 
 :::
 
 :::tip
-When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer send itches into your stream of conscioousness.
+When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer project itches into your stream of conscioousness.
 :::
 
 :::tip
