@@ -86,7 +86,7 @@ The only way to flow with the universe is NOW! I am not kidding. The only way to
 
 > _David, you are living in a fantasy world. There are huge problems that I want to worry about and I don't want to 'free myself from'_
 
-The universe is supposed to unfold the way that it does. When you do not accept that, it creates suffering. Many of these events that we do not accept cause pain or are uncomfortable. Maybe a family member past away, you fell of your bike, your presentation didn't go as planned, you regret saying something, etc. The solution is to accept it. You cannot change anything that has happened in the past. The reason why you are suffering is because you _wish_ you didn't feel the pain. This wish is an emotion that is tied to the future, taking you away from the present moment; from the energy that emanates from your life.
+The universe is supposed to unfold the way that it does. When you do not accept that, it creates suffering. Many of these events that we do not accept cause pain or are uncomfortable. Maybe a family member past away, you fell of your bike, your presentation didn't go as planned, you regret saying something, etc. The solution is to accept it. You cannot change anything that has happened in the past. The reason why you are suffering is because you _wish_ you didn't feel the pain. This wish is an emotion that is tied to the future, taking you away from the present moment; from the peace that emanates from your life.
 
 What happens when you accept the truth is that you detach yourself from the ego, freeing yourself from the unhappiness it caused for you. The pain still exists, yet the suffering dissappears. As the Buddha said, "Pain is inevitable, but suffering is optional".
 
@@ -96,6 +96,10 @@ Have you ever seen a cancer patient who has _accepted_ that they are sick? They 
 
 :::tip
 When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer send itches into your stream of conscioousness.
+:::
+
+:::tip
+Maybe you really really regret something you did the other day. To fully accept what you cannot change what you did requires no thinking; only being. To do this, hold this unpleasant emotion in your center of attention and then put your awareness around it. Let the emotion drift into the awareness around it. You will start feeling that the emotion no longer holds you in the same way. To understand what I mean, you have to meditate. More on this later.
 :::
 
 #### The Frequency of Enjoyment
