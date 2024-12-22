@@ -41,7 +41,7 @@ This is what flow looks like.
 On the left is what life looks like for an untrained mind. With an untrained mind, you can still experience flow in the frequency of acceptance, but it is much harder. When you meditate and meditate and meditate, you _might_ reach awakening. This is when 100% of your existence is in the flow state. This means that no matter what you are doing, you navigate the present moment without any blockages. Later on, we will discuss how meditation allows you to achieve the model on the right.
 
 :::note
-Observe how this model is based on non resistance vs force, or in other words, yin and yang. When you achieve the perfect balance of yin and yang is when you flow.
+Observe how this model is based on non resistance vs force, or in other words, yin and yang. When you achieve the perfect balance of yin and yang is when you flow. Western society has wayyyyy too much yang energy. They value overworking oneself in order to achieve goals. They value 'working hard' in order to achieve goals. However, when you're in the flow state, you 'working hard does not exist.
 :::
 
 ## The Key To Unlock the Flow State
