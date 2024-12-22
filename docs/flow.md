@@ -10,7 +10,7 @@ Have you ever been so engrossed in an activity that you lost track of time? You 
 
 ## What The Flow State Feels like
 
-We are experiencing wayyy too much stimulus from the environment, from content, social media, porn, excessive music, everyday coffee, that is numbing us from feeling the stimuli that comes from within; the truth: that from within us, emanates true love, peace, and joy. You are in the flow state when you are deriving your energy from within instead of deriving energy from an external source; the ego. Eventually as you detox from the stimuli, you will feel the truth that YOU ARE love, peace, and joy. You will begin to feel the stillness that exists within you, that your life is a flourishing oasis which has been elegantly designed over milenia of evolution. You will start feeling these deep _energies_ emanating from within you and it feels _incredible_. This is called your Prana/life force/breath. At first, you need to connect with your breath at your nose to feel that you are life. Then, you can start to connect with your breath sensations in your lungs. Sooner than later, you will start to be able to feel these breath sensations in your outer limbs and throughout your entire body at once. From personal experience, it is exilerating. It is vibrant. It is invigorating. I wrote this paraphrased message to my family on Friday December 20th.
+We are experiencing wayyy too much stimulus from the environment, from content, social media, porn, excessive music, everyday coffee, that is numbing us from feeling the stimuli that comes from within; the truth: that from within us, emanates true love, peace, and joy. You are in the flow state when you are deriving your energy from within instead of deriving energy from an external source; the ego. Eventually as you detox from the stimuli, you will feel the truth that YOU ARE love, peace, and joy. You will begin to feel this as the stillness that exists within you, that your life is a flourishing oasis which has been elegantly designed over milenia of evolution. You will start feeling these deep _energies_ emanating from within you and it feels _incredible_. This is called your Prana/life force/breath. At first, you need to connect with your breath at your nose to feel that you are life. Then, you can start to connect with your breath sensations in your lungs. Sooner than later, you will start to be able to feel these breath sensations in your outer limbs and throughout your entire body at once. From personal experience, it is exilerating. It is vibrant. It is invigorating. I wrote this paraphrased message to my family on Friday December 20th.
 
 > I rode my bike to work on Wednesday morning (after my meditation). It was as fun as any rollercoaster that I have been on because I could finally feel that my body was full of life: the air hitting my face was so vibrant and stimulating, inside my body I could feel every part smiling, and nothing else was on my mind. I was in the flow state.
 > I am being serious when I say that it was as fun as any roller coaster i've been on, maybe even more fun. Because what actually determines your enjoyment is not what you're doing on the outside, but how you feel on the inside (your truest nature. you are joy).
@@ -34,7 +34,7 @@ This is what flow looks like.
 
 ![The Right Flow State model](/img/left-v-right.png)
 
-On the left is what life looks like for an untrained mind. With an untrained mind, you can still experience flow in the frequency of acceptance, but it is much harder. When you meditate and meditate and meditate, you can reach awakening. This is when 100% of your existence is in the flow state. This means that no matter what you are doing, you navigate the present moment without any blockages. Later on, we will discuss how meditation allows you to achieve the model on the right.
+On the left is what life looks like for an untrained mind. With an untrained mind, you can still experience flow in the frequency of acceptance, but it is much harder. When you meditate, you can reach awakening. This is when 100% of your existence is in the flow state. This means that no matter what you are doing, you navigate the present moment without any blockages. Later on, we will discuss how meditation allows you to achieve the model on the right.
 
 :::note
 Observe how this model is based on non resistance vs force, or in other words, yin and yang. When you achieve the perfect balance of yin and yang is when you flow. Western society has wayyyyy too much yang energy. They value overworking oneself in order to achieve goals. They value 'working hard' in order to achieve goals. However, when you're in the flow state, you 'working hard' does not exist.
@@ -96,6 +96,8 @@ Have you ever seen a cancer patient who has _accepted_ that they are sick? They 
 
 :::tip
 When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer project itches into your stream of conscioousness.
+
+To simplify this process in a simple framework: _let it in, let it be, let it go_.
 :::
 
 :::tip
@@ -114,7 +116,7 @@ For Thanksgiving, I spent the day by myself. I live in San Jose, California whil
 
 #### Enthusiasm
 
-When you are enthused over the present moment, you are experiencing the highest flow of energy. Whatever you are doing requires you to exert a great amount of energy, so your flow is wider and faster. In other words, your mindfulness is at the perfect ratio: your attention is sharp & and fast, and your awareness is wide & clear.
+When you are enthused over the present moment, you are experiencing the highest flow of energy. Whatever you are doing requires you to exert a great amount of energy, so your flow is wider and faster. In other words, your mindfulness is at the perfect ratio: your attention is sharp & and fast, and your awareness is wide & clear. This state of flow requires that you are in full acceptance of the situation to the point where you embrace problems as a source of joy. This means that you must be in acceptance and enjoyment to experience this state of flow.
 
 ##### The Most Fascinating Aspect About Enthusiasm
 
