@@ -162,3 +162,8 @@ Your goal is to defeat these hindrances to meditation by cultivating intention! 
 It is very important to have a meditation guide. Here is an analogy: Imagine that you live in 3000 BC, there is no number system and you want to invent linear algebra LOL. That is impossible in one generation. It took humanity hundreds of generations to invent the basic number system from 0-9, and then we had to go through hundreds of more generations to invent linear algebra. If you go into meditation blind, you are going to be only exploring the basic concepts, the numbers 0-9. But with a guide, you will quickly learn the already proven methods to get past the basic concepts so that you can learn the more advanced concepts, the linear algebra of meditation. [This is my meditation guide](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985/ref=sr_1_1?crid=13V1BWYBB750K&dib=eyJ2IjoiMSJ9.ed-_zj24W_rTp5b7XVRdd5SXwa0S8OHxkwORYEBkKv09YW9BQExeZ7LDkQL86T8a50kmYeiomO1cJLCEAbp41nclJQ-vfi7EZbqdAWFn-lJRYlFTGtbSR9itkHF9nqypSx_usOFX2oepc_Q8vJzLcqbq-ELO_RUOu7nh9OV-aauzrq9QPQVGovjG6VDjDCAEnciiTelW3JRW9s_7Jkwr2Pi1FIt6n9FmagRho0Ene4E.XtuTV3PWYe6Fye6NUYbC9IzzXSFYsM38_CTy41z8RF4&dib_tag=se&keywords=the+mind+illuminated&qid=1734483454&sprefix=the+mind+illuminate%2Caps%2C168&sr=8-1).
 
 This is your calling to meditate!
+
+:::warning
+You are unaware of your unawareness. Only when you meditate can you start becoming aware of unawareness. Saying that you know all the answers tells us that you are completely unaware of your unawareness.
+
+:::
