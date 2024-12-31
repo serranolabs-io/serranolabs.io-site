@@ -86,7 +86,7 @@ The only way to flow with the universe is NOW! I am not kidding. The only way to
 
 > _David, you are living in a fantasy world. There are huge problems that I want to worry about and I don't want to 'free myself from'_
 
-The universe is supposed to unfold the way that it does. When you do not accept that, it creates suffering. Many of these events that we do not accept cause pain or are uncomfortable. Maybe a family member past away, you fell of your bike, your presentation didn't go as planned, you regret saying something, etc. The solution is to accept it. You cannot change anything that has happened in the past. The reason why you are suffering is because you _wish_ you didn't feel the pain. This wish is an emotion that is tied to the future, taking you away from the present moment; from the peace that emanates from your life.
+The universe is supposed to unfold the way that it does. When you do not accept that, it creates suffering. Many of these events that we do not accept cause pain or are uncomfortable. Maybe a family member past away, you fell of your bike, your presentation didn't go as planned, you regret saying something, etc. The solution is to accept it. You cannot change anything that has happened in the past. There is in fact nothing that you can do to change the past. The reason why you are suffering is because you _wish_ you didn't feel the pain. This wish is an emotion that is tied to the future, taking you away from the present moment; from the peace that emanates from your life.
 
 What happens when you accept the truth is that you detach yourself from the ego, freeing yourself from the unhappiness it caused for you. The pain still exists, yet the suffering dissappears. As the Buddha said, "Pain is inevitable, but suffering is optional".
 
@@ -94,10 +94,12 @@ What happens when you accept the truth is that you detach yourself from the ego,
 Have you ever seen a cancer patient who has _accepted_ that they are sick? They look so happy. Have you ever seen anyone on the brink of death, who _accepts_ that they are on the brink of death? They look so happy. They let go of what they cannot change.
 :::
 
-:::tip
-When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer project itches into your stream of conscioousness.
+:::note
+Thoughts and emotions have weight to them. If you do the process right, you can physically feel liberated from the weight of the thought and emotion.
+:::
 
-To simplify this process in a simple framework: _let it in, let it be, let it go_.
+:::tip
+When you meditate, you can practice this skill at a fundamental level by observing itches on your body when they appear. When an itch appears on your body, your ego is telling you that you cannot enjoy yourself until you have itched the spot. Accept that you have the desire to itch the spot. Then, let go of the desire to itch the spot because you don't have to itch the spot to enjoy yourself in the present moment. However, if the itch is too intense, then itch the spot. Eventually as you stop itching the spots, your mind will no longer project itches into your stream of conscioousness. To simplify this process in a simple framework: _let it in, let it be, let it go_.
 :::
 
 :::tip
@@ -160,6 +162,7 @@ Your goal is to defeat these hindrances to meditation by cultivating intention! 
 
 :::tip
 It is very important to have a meditation guide. Here is an analogy: Imagine that you live in 3000 BC, there is no number system and you want to invent linear algebra LOL. That is impossible in one generation. It took humanity hundreds of generations to invent the basic number system from 0-9, and then we had to go through hundreds of more generations to invent linear algebra. If you go into meditation blind, you are going to be only exploring the basic concepts, the numbers 0-9. But with a guide, you will quickly learn the already proven methods to get past the basic concepts so that you can learn the more advanced concepts, the linear algebra of meditation. [This is my meditation guide](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985/ref=sr_1_1?crid=13V1BWYBB750K&dib=eyJ2IjoiMSJ9.ed-_zj24W_rTp5b7XVRdd5SXwa0S8OHxkwORYEBkKv09YW9BQExeZ7LDkQL86T8a50kmYeiomO1cJLCEAbp41nclJQ-vfi7EZbqdAWFn-lJRYlFTGtbSR9itkHF9nqypSx_usOFX2oepc_Q8vJzLcqbq-ELO_RUOu7nh9OV-aauzrq9QPQVGovjG6VDjDCAEnciiTelW3JRW9s_7Jkwr2Pi1FIt6n9FmagRho0Ene4E.XtuTV3PWYe6Fye6NUYbC9IzzXSFYsM38_CTy41z8RF4&dib_tag=se&keywords=the+mind+illuminated&qid=1734483454&sprefix=the+mind+illuminate%2Caps%2C168&sr=8-1).
+:::
 
 This is your calling to meditate!
 
