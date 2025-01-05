@@ -120,7 +120,7 @@ Our mind imposes a mental construct of what the solution should be. However, the
 
 > The same force that makes the universe expand exists within us.
 
-We can say that the force that makes the universe expand exists within everything and everyone. Now take a look at a a simple rock. There is infinite depth to it that our brains are incapable of comprehending. The rock is made up of an uncountable number of atoms that are arranged in an infinitely complex set of molecules, and so on. In an attempt to navigate the complexity of this world, our brains create mental constructs of everything. The problem occurs when we bound our spirit to the confines of mental constructs. That is unideal since our spirits are limitless, just like the universe.
+We can say that the force that makes the universe expand exists within everything and everyone. Our spirit is made up of this force. Now take a look at a a simple rock. There is infinite depth to it that our brains are incapable of comprehending. The rock is made up of an uncountable number of atoms that are arranged in an infinitely complex set of molecules, and so on. In an attempt to navigate the complexity of this world, our brains create mental constructs of everything. The problem occurs when we bound our spirit to the confines of mental constructs. That is unideal since our spirits are limitless, just like the universe.
 
 ### Resources
 
