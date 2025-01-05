@@ -98,10 +98,6 @@ Creativity is an extremely enjoyable process _IF_ you free your happiness/spirit
 
 Not only can you remove blockages from your spirit's fountain of flow to increase flow, but you can increase the rate of flow through inspiration. Surround yourself with beauty. Listen to a beautiful song. Talk to others who inspire you and have created beautiful things. Lastly, derive inspiration from yourself. Appreciate everything that you have in your life, and accept whatever you could not change. This is because everything in your life was meant to be. Although sometimes it might not seem like it, your life has been a beautiful dance this whole time. The truth is that you are going to misstep and be offbeat. Accept it. It is part of the dance of life.
 
-###### My Inspiration To You
-
-This is the golden rose. It has been elegantly designed over milenia of evolution.
-
 ## Theory
 
 If you are interested in why this all works, here it is.
