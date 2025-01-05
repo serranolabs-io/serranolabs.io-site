@@ -10,6 +10,6 @@ Your birthday marks the day that you added value to this Earth. It does not even
 
 This day marks a point in your journey of _life_, and you only have one chance to live it through :).
 
-Celebrate this significant day by celebrating your life; appreciate what you have given to this planet, and if you don't feel like you have given anything, appreciate the inherent value that you are. Reflect on the beauty of how the universe has unfolded during your lifetime, and accept the reality that you cannot change anything that has happened in the past. Everything that happened is meant to be :).
+Celebrate this significant day by celebrating your life; appreciate what you have given to this planet, and if you don't feel like you have given anything, appreciate the inherent value that you are. Reflect on the beauty of how the universe has unfolded during your lifetime, and accept the reality that you cannot change anything that has happened in the past... _Everything that happened is meant to be :)._
 
 Drinking, partying, consuming, spending money, treating yourself to luxuries on your birthday are an _illusion_ of celebration. They take you away from the life that you are. Remove yourself from the illusion to see the truth that comes from you.
