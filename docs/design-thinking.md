@@ -96,7 +96,7 @@ A limiting belief is simply negative self-labeling. By freeing yourself from the
 
 #### From Expectations
 
-Creativity is an extremely enjoyable process _IF_ you free your happiness/spirit from expectations. Make fun solutions that will make people smile, make clever solutions that will intrigue your folks. Enjoy this feeling of freedom! Enjoy the process of creativity itself **without any need to product results**. This means that you do not have any expectations to produce anything. Instead, produce because you enjoy it.
+Creativity is an extremely enjoyable process _IF_ you free your happiness/spirit from expectations. Make fun solutions that will make people smile, make clever solutions that will intrigue your folks. Enjoy this feeling of freedom! Enjoy the process of creativity itself **without any need to produce results**. This means that you do not have any expectations to produce anything. Instead, produce because you enjoy it.
 
 #### Let the Spirit Flourish
 
