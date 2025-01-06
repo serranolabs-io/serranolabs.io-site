@@ -65,6 +65,10 @@ The guiding Insight is derived from the diagnosis, and it is meant to be a high 
 
 Define the steps required to tackling the problem :). With the guiding insight at your hand, it should be very clear how you should tackle the problem.
 
+#### Crawl, Walk, Run
+
+Create an approach so easy to follow that your manager doesn't have to ask you any questions about it. The best way to do this is through a crawl, walk, run phased approach. Define the objective in the crawl phase and the action required to get there, and so on.
+
 ## The Spirit
 
 > _Everyone is a creation, therefore we are all creative._
@@ -116,7 +120,11 @@ Our mind imposes a mental construct of what the solution should be. However, the
 
 > The same force that makes the universe expand exists within us.
 
-We can say that the force that makes the universe expand exists within everything and everyone. Our spirit is made up of this force. Now take a look at a a simple rock. There is infinite depth to it that our brains are incapable of comprehending. The rock is made up of an uncountable number of atoms that are arranged in an infinitely complex set of molecules, and so on. In an attempt to navigate the complexity of this world, our brains create mental constructs of everything. The problem occurs when we bound our spirit to the confines of mental constructs. That is unideal since our spirits are limitless, just like the universe.
+Take a look at a a simple rock. There is unfathomable depth to it that our brains are incapable of comprehending. The rock is made up of an uncountable number of atoms that are arranged in an infinitely complex set of molecules, and so on. Our brains create mental constructs in order to help us navigate the complexity of the world, but they are inherently limiting as no mental construct can encapsulate the totality of the whole. Therefore, when we define ourselves as labels, limiting beliefs, etc, we are limiting ourselves.
+
+Also, the universe itself is a fountain of flow, where it flows, the universe expands. We are apart of the universe, of its fountain of flow. Therefore, we can say that the universe expands through us. However, blockages happen to the natural flow of the universe when we limit ourselves to any mental constructs.
+
+
 
 ### Resources
 
