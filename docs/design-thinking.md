@@ -1,6 +1,6 @@
 ---
-slug: strategic-design-guide
-title: Disruptive Strategic Design Guide
+slug: disruptive-strategic-design
+title: Disruptive Strategic Design
 date: 01/02/2025
 ---
 
