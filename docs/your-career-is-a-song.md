@@ -30,6 +30,6 @@ But chain enough beats, and then you can start to create a rhythm.
 
 The rhythm starts becoming so enjoyable that it turns into an entire song!
 
-At this point, I cannot stop [creating]. I am solving problem left in right in the flow state.
+At this point, I cannot stop [creating]. I am solving problems left in right in the flow state.
 
 I accept that I will be offbeat sometimes, and I have faith that I will hear the song again.

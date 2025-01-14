@@ -43,6 +43,14 @@ Problems can be complex and no on understands the problem as well as you do. It 
 
 Make all of your work public! Post your meetings to your message boards after they are done. Post your meeting notes and insight. Let everyone know what you are doing via your planning tool, like JIRA.
 
+###### Memetics
+
+The most powerful thing that you can do to get others onboard to your initiative is through the concept of memetics. Memetics simply means having an idea spread like a virus. The best way to have an idea spread like a virus is to tell a story. Tell a story about you initiative. Make it dramatic. Put your passion into it.
+
+:::tip
+Memetics is where the word 'meme' come from!
+:::
+
 #### Technical Implementation
 
 Every problem that needs to be solved requires a technical implementation. It is important to be able to distill the problem in a high level way as well as low level.
@@ -123,8 +131,6 @@ Our mind imposes a mental construct of what the solution should be. However, the
 Take a look at a a simple rock. There is unfathomable depth to it that our brains are incapable of comprehending. The rock is made up of an uncountable number of atoms that are arranged in an infinitely complex set of molecules, and so on. Our brains create mental constructs in order to help us navigate the complexity of the world, but they are inherently limiting as no mental construct can encapsulate the totality of the whole. Therefore, when we define ourselves as labels, limiting beliefs, etc, we are limiting ourselves.
 
 Also, the universe itself is a fountain of flow, where it flows, the universe expands. We are apart of the universe, of its fountain of flow. Therefore, we can say that the universe expands through us. However, blockages happen to the natural flow of the universe when we limit ourselves to any mental constructs.
-
-
 
 ### Resources
 
