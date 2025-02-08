@@ -41,3 +41,7 @@ To free yourself from the ego, please read the article [The Flow State](./flow.m
 > The mind is what generates the ego.
 
 The mind is the root issue for why you cannot enjoy life to its fullest. What I mean by this is that expectations, stress, thinking, are all the fault of your mind. All expectations are created by your mind. Stress arises due to not being able to accept an unideal situation. In other words, stress is a form of expectation. So, when you enter another Monday, remove yourself from expectations that you should be acheiving something, that you would rather enjoy talking to your friends, that you would rather enjoy a beer, that you would rather not be there, that your life should be going any other way. The truth is that you are meant to experience life this way. The universe is meant to unfold this way. Accept this truth and you will open your life up to a new dimension. You will start to feel a love for life that radiates everywhere you go and into everything you do 💗.
+
+:::note
+The enjoyment that you can get from this way of living has no limit. This is why there is an arrow that points up in the graph.
+:::
