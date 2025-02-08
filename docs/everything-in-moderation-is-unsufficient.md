@@ -28,11 +28,11 @@ I am going to explain multiple ways how your life is beautiful despite the fact 
 - Moreover, you are an artist, and your life is the canvas. You can paint your life into a beautiful masterpiece. You can add as many colors as you want to give your life life.
 - Also, your life is a dance. Everything that you have done and are doing is apart of your life's dance. Any misstep that you have simply means that you are offbeat. [I go deeper into the dance analogy here.](./your-life-is-a-dance.md)
 
-## Constraining yourself to 'Everyting In Moderation'
+## Constraining Yourself to 'Everyting In Moderation'
 
 If you have never felt one of the previous feelings, or if one of the previous feelings is fleeting, it is because you are unknowingly constraining yourself to the world of the ego. The ego believes that you cannot enjoy life to its fullest unless you indulge in pleasures. This is why you are feeding yourself the excuse that 'everything in moderation' as acceptable.
 
-### Freeing yourself
+### Freeing Yourself
 
 To free yourself from the ego, please read the article [The Flow State](./flow.md) for a deeper explanation. To keep it short, when you are entering another Monday, when you are sober, etc., you do not enjoy these moments because you are **not in the present moment**. You have expectations that these moments should be better, stagnant stress, a thinking mind, and much more that are taking you away from the inherent beauty of life.
 
