@@ -15,7 +15,7 @@ title: Everything In Moderation is a False Notion
 
 > I can have a cheat day
 
-All of the above statements are commonly justified through the philosophy that as long as you do 'everything in moderation', then you are living life to its fullest. But I'm here to say that 'everything in moderation' is one of life's greatest false notions. The truth is that _life itself can be more intoxicating than any drug you have ever taken_. This is not proverbial. It is real. To see it, you must unveil the mask of the ego by _opening_ yourself to this new dimension of life, and then by surrendering to this new dimension of life.
+All of the above statements are commonly justified through the philosophy that as long as you do 'everything in moderation', then you are living life to its fullest. But I'm here to say that 'everything in moderation' is one of life's greatest false notions. The truth is that _life itself can be more intoxicating than any drug you have ever taken_, making things like drinking a subpar feeling. This is not proverbial. It is real. To see it, you must unveil the mask of the ego by _opening_ yourself to this new dimension of life, and then by surrendering to this new dimension of life.
 
 ![Enjoyment In Life](/img/enjoyment-in-life.png)
 
