@@ -25,7 +25,7 @@ I am going to explain multiple ways how your life is beautiful despite the fact 
 
 - Life is so so so beautiful that the mere fact of being alive should be enough to give you goosebumps.
 - Life is so enjoyable that you don't need alcohol in order to embrace the fact that you are alive 🥹.
-- Moreover, you are an artist, and your life is the canvas. You can paint your life into a beautiful masterpiece. You can add as many colors as you want to give your life life.
+- Moreover, you are an artist, and your life is the canvas. You can paint your life into a beautiful masterpiece. You can add as many colors as you want to give your life life. [I go deeper into this analogy here.](./what-living-with-purpose-really-means.md)
 - Also, your life is a dance. Everything that you have done and are doing is apart of your life's dance. Any misstep that you have simply means that you are offbeat. [I go deeper into the dance analogy here.](./your-life-is-a-dance.md)
 
 ## Constraining Yourself to 'Everyting In Moderation'
