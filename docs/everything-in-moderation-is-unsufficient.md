@@ -32,6 +32,8 @@ I am going to explain multiple ways how your life is beautiful despite the fact 
 
 If you have never felt one of the previous feelings, or if one of the previous feelings is fleeting, it is because you are unknowingly constraining yourself to the world of the ego. The ego believes that you cannot enjoy life to its fullest unless you indulge in pleasures. This is why you are feeding yourself the excuse that 'everything in moderation' as acceptable.
 
+Giving yourself the option of drinking over the weekend because you 'deserved' it is an illusion of living life to its fullest. In fact, the need to have this choice constrains your total enjoyment by making it finite. Whereas when you are free from the ego, your total enjoyment in life is unbounded and free! Your experience of life becomes rich and abundant.
+
 ### Freeing Yourself
 
 To free yourself from the ego, please read the article [The Flow State](./flow.md) for a deeper explanation. To keep it short, when you are entering another Monday, when you are sober, etc., you do not enjoy these moments because you are **not in the present moment**. You have expectations that these moments should be better, stagnant stress, a thinking mind, and much more that are taking you away from the inherent beauty of life.
