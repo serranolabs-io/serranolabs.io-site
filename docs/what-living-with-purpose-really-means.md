@@ -20,7 +20,7 @@ I totally understand your concerns, which is why I wrote this article. I agree, 
 
 The greatest artists of this world took a look at their canvas, had a vision to paint something beautiful, and manifested that vision into reality. They articulated each and every brush stroke with purpose and conviction to achieve this.
 
-This is your life. Your life is your canvas. You have the opportunity to paint your life into something _incredibly_ beautiful, where each and every brushstroke that you make is articulated with purpose and conviction. Paint the life that you want.
+This is your life. Your life is your canvas. You have the opportunity to paint your life into something _incredibly_ beautiful, where each and every brushstroke that you make is articulated with purpose and conviction. Paint the life that you want. Hone in your skillset so that you can paint layers ontop of layers, creating depth to your lifethat is gorgeous.
 
 The more that you intentionally paint your life, the more that it becomes clear. The more that it becomes clear, the more that you can see the vision that you have for yourself and the more that you can turn the vision into reality. Take a step back, 5 steps back, so that you can see your life's canvas right now: bask in the beauty of everything that you have painted so far and of how much of your life is yet to be painted. Your canvas is so full of color, it is so rich in experiences, and it is also very blank! You have so much more to paint, so grab a beret and your palette to get ready to paint!
 
