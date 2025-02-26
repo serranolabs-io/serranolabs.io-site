@@ -5,6 +5,8 @@ title: The Phoenix Of The Soul - A Guided Meditation
 
 ![Phoenix](../static/img/phoenix.webp)
 
+> You technically don't have to read this as a meditation, but I highly recommend that you read this in a place where you can sit in silence.
+
 ## Before The Meditation
 
 ### Type of Meditation
