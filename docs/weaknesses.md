@@ -32,6 +32,10 @@ We're going to get deep in the weeds of this one.
 
 - Git
 
+### Business Value
+
+My passion & yearning to build blinds me from justifying value.
+
 ## Fully Embrace Your Weaknesses
 
 > The following partly comes from 'The code of an extraordinary mind'
