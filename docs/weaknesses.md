@@ -21,18 +21,27 @@ We're going to get deep in the weeds of this one.
 #### Frontend
 
 - Can't really write production react code. I can read it and refactor it, but writing a new component from scratch with the complicated useCallback & useMemo hooks is not my strong suit and I will definitely avoid that. If shit has to get done where I have to do it, I will do it.
+- Never have published an npm package
 
 #### Backend
 
-- I feel like I have barely touched the surface of the backend. I have never ran something bare metal.
-- Kubernetes is a shitshow.
-- I have never rolled my own auth
+- I feel like I have barely touched the surface of the backend. I have never ran something bare metal. There is a lot of abstraction around protocols like HTTP that I have never even touched.
+- Kubernetes is a shitshow. But tbh, I just need to roll my own server, DNS, whatever to understand it all. But there might be no need for this.
+- I have never rolled my own auth - don't do it tho.
 
 #### Tooling
 
-- Git
+- Git - get freaking better at version control.
 
 ### Business Value
+
+[Value-target](../static/img/value-target.png)
+
+To ensure that you hit the bullseye, where all of the value resides, you must:
+
+1. Verify your idea with others before executing
+2. Ensure that there is no other alternative
+3. Actively seek to disprove your take
 
 My passion & yearning to build blinds me from justifying value.
 
@@ -44,4 +53,4 @@ I can lose everything, my job, my career, my home, but it will never take away m
 
 ## Stay Laser Focused
 
-Give yourself a clear direction with your life. What do you want out of it? For me, I genuinely want to see and understand the _truth_, the way that _nature_ has intended. The way that nature has intended is beautiful. With this laser focus, I can detach myself from the ego that wants to hold onto what you cannot control allowing me to spend my energy towards useful projects.
+Give yourself a clear direction with your life. What do you want out of it? For me, I genuinely want to see and understand the _truth_, the way that _nature_ has intended. The way that nature has intended is beautiful. With this laser focus, I can detach myself from the ego that would rather stay comfortable and not care about failing.
