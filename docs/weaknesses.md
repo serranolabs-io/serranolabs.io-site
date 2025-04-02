@@ -40,8 +40,8 @@ We're going to get deep in the weeds of this one.
 To ensure that you hit the bullseye, where all of the value resides, you must:
 
 1. Verify your idea with others before executing
-2. Ensure that there is no other alternative
-3. Actively seek to disprove your take
+2. Actively seek to disprove your take
+3. Ensure that there is no other alternative
 
 My passion & yearning to build blinds me from justifying value.
 
