@@ -4,8 +4,11 @@ title: Intro To Bachata
 date: 06/12/25
 ---
 
-## Agenda
 
+
+# Intro to Bachata
+
+This is a short intro to bachata
 <!-- * Un baile - un minuto
 * Etymology - 5 minutes
 * Musicality  2 minutes
@@ -38,5 +41,4 @@ Within the **dance**, 2 sets of 4 counts make up a beat.
 
 ![Bachata music score](../static/img/bachata-music-score.png)
 
-This is the basic step!
-
+This is the basic step for **Modern Bachata** (Bachata Moderna)! Let's dance!
