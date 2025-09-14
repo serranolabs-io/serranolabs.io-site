@@ -53,7 +53,7 @@ Imagine a world where\
 Instead of hating your daily life,\
 Instead of hating work,\
 Simply being able to breathe is enough to make you feel happy.\
-And you appreciate the life that you have.
+And you appreciate the life that you are.
 
 Imagine a world where\
 Instead of listening to love songs and dreaming about loving someone special,\
