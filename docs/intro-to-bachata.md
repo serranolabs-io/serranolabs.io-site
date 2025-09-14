@@ -14,8 +14,8 @@ This is a short intro to bachata. Enjoy :)
 * Musicality  2 minutes
 * The basic step - 30 minutes
 * Demo - 2 minutes 30 seconds -->
-
-<!-- I just showed you some bachata, but let's break down the art! -->
+<!-- 
+I just showed you some achata, but let's break down the art! -->
 
 ### The Etymology
 
@@ -26,7 +26,6 @@ So the same rules for etymology apply to dance as well.
 ![Dance families](../static/img/dance-families.png)
 
 The English languages lies in the germanic language family,
-Whereas the Bachata dance style lies within the Afro-latin dance family.
 
 ![Dance families](../static/img/languages.png)
 Within English, there are different dialects, like Australian, British, etc.
